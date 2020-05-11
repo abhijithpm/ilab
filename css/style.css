@@ -1420,7 +1420,7 @@ a.move-top span{
 }
 /*-- //responsive design --*/
 .banner-bottom{
-	background: url(../images/library2.jpg)no-repeat center;
+	background: linear-gradient(180deg, #62C5DA 0%, #58D2BC 100%);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1430,7 +1430,7 @@ a.move-top span{
 	
 }
 .team{
-background: url(../images/ceem10.jpg)no-repeat 0px 0px;
+background: linear-gradient(180deg, #62C5DA 0%, #58D2BC 100%);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
