@@ -678,7 +678,7 @@ h3.heading {
 }
 
 .section-stats {
-    background: #3369e7;
+   background: linear-gradient(180deg, #62C5DA 0%, #58D2BC 100%);
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
